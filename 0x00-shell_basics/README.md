@@ -6,4 +6,5 @@ task 4 : script that display current directory contents, including hidden files 
 task 5 : script that display current directory contents : Long format,with user and group IDs displayed numerically, And hidden files (starting with .)
 task 6 :  script that creates a directory named my_first_directory in the /tmp/ directory.
 task 7 : script that Move the file betty from /tmp/ to /tmp/my_first_directory.
-task 8 : script that delete the file betty 
+task 8 : script that delete the file betty
+task 9 : script that delete the directory my_first_directory that is in the /tmp directory. 
