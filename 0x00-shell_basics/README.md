@@ -9,4 +9,5 @@ task 7 : script that Move the file betty from /tmp/ to /tmp/my_first_directory.
 task 8 : script that delete the file betty
 task 9 : script that delete the directory my_first_directory that is in the /tmp directory.
 task 10 : script that changes the working directory to the previous one.
-task 11 : script that lists all files (even ones with names beginning with a period character, which are normally hidden) in the current directory and the parent of the working directory and the /boot directory (in this order), in long format. 
+task 11 : script that lists all files (even ones with names beginning with a period character, which are normally hidden) in the current directory and the parent of the working directory and the /boot directory (in this order), in long format.
+task 12 :  script that prints the type of the file named iamafile. The file iamafile will be in the /tmp directory when we will run your script. 
