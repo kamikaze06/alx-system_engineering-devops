@@ -7,4 +7,5 @@ task 5 : script that display current directory contents : Long format,with user 
 task 6 :  script that creates a directory named my_first_directory in the /tmp/ directory.
 task 7 : script that Move the file betty from /tmp/ to /tmp/my_first_directory.
 task 8 : script that delete the file betty
-task 9 : script that delete the directory my_first_directory that is in the /tmp directory. 
+task 9 : script that delete the directory my_first_directory that is in the /tmp directory.
+task 10 : script that changes the working directory to the previous one. 
