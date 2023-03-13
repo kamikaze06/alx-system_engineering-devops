@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -lad */ | cw -l
+find . -type d -mindepth 1 | cw -l
