@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -l --sort=time | head -n11
+ls -t1 --sort=time | head 
